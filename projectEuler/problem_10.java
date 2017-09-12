@@ -2,7 +2,7 @@ package projectEuler;
 import java.text.DecimalFormat;
 import java.text.NumberFormat;
 
-public class problem10 {
+public class problem_10 {
 
     public static void main(String[] args) {
 
