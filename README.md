@@ -8,8 +8,9 @@ My collection of solutions to Project Euler.
 
 ### Solutions
 <details open>
- <br>br>
+ <br>
   Complete: ✔️ TODO: 🔴
+ <br>
 <summary>Languages</summary>
   <table>
     <thead>
@@ -127,6 +128,7 @@ My collection of solutions to Project Euler.
       </tr>
         <tr>
         <td align="center">011</td>
+        <td align="center">✔️</td>
         <td align="center">🔴</td>
         <td align="center">🔴</td>
         <td align="center">🔴</td>
@@ -181,6 +183,7 @@ My collection of solutions to Project Euler.
       </tr>
         <tr>
         <td align="center">016</td>
+        <td align="center">✔️</td>
         <td align="center">🔴</td>
         <td align="center">🔴</td>
         <td align="center">🔴</td>
