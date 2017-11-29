@@ -7,18 +7,22 @@ My collection of solutions to Project Euler.
 ---
 
 ### Solutions
---
 <br>
 <details open>
+  <br>
 <summary>Languages</summary>
   <table>
     <thead>
       <tr>
+          <th aligin="center">Problem</th>
           <th aligin="center">Java</th>
-          <th aligin="center">Java</th>
-          <th aligin="center">Java</th>
-          <th aligin="center">Java</th>
-          <th aligin="center">Java</th>
+          <th aligin="center">C</th>
+          <th aligin="center">C++</th>
+          <th aligin="center">Python</th>
+          <th aligin="center">PHP</th>
+          <th aligin="center">Javascript</th>
+          <th aligin="center">Rust/th>
+          <th aligin="center">Ruby</th>
       </tr>
     </thead>
   </table>
