@@ -25,15 +25,15 @@ My collection of solutions to Project Euler.
     </thead>
     <tbody>
       <tr>
-        <td>001</td>
-        <td>001</td>
-        <td>001</td>
-        <td>001</td>
-        <td>001</td>
-        <td>001</td>
-        <td>001</td>
-        <td>001</td>
-        <td>001</td>
+        <td align="center">001</td>
+        <td align="center">🔵</td>
+        <td align="center">001</td>
+        <td align="center">001</td>
+        <td align="center">001</td>
+        <td align="center">001</td>
+        <td align="center">001</td>
+        <td align="center">001</td>
+        <td align="center">001</td>
       </tr>
     </tbody>
   </table>
