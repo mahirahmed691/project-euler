@@ -12,7 +12,7 @@ public class problem_13 {
 
         long start = System.currentTimeMillis(); // start timer.
         BigInteger sum = BigInteger.ZERO;
-        File file = new File("largeSum.txt");
+        File file = new File("projectEuler/_013/largeSum.txt");
         try {
             Scanner scanner = new Scanner(file);
             String line;
