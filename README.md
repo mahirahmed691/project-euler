@@ -7,6 +7,17 @@ My collection of solutions to Project Euler.
 
 | Problem       | Java          |
 | ------------- |:-------------:|
-| col 3 is      | right-aligned |
-| col 2 is      | centered      |
-| zebra stripes | are neat      |    
+| 001           |               |
+| 002           |               |
+| 003           |               |       
+| 004           |               |
+| 005           |               |
+| 006           |               |       
+| 007           |               |
+| 009           |               |
+| 010           |               |       
+| 011           |               |
+| 012           |               |
+| 013           |               |       
+| 014           |               |
+| 016           |               |       
