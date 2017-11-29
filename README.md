@@ -5,9 +5,7 @@ My collection of solutions to Project Euler.
 #### Add My Friend Key: 927878_JlJkD0Dq0Qw28uMjhIKube4RBiVBd9CL
 
 ---
-
 ### Solutions
-<br>
 <details open>
   <br>
 <summary>Languages</summary>
@@ -25,5 +23,18 @@ My collection of solutions to Project Euler.
           <th aligin="center">Ruby</th>
       </tr>
     </thead>
+    <tbody>
+      <tr>
+        <td>001</td>
+        <td>001</td>
+        <td>001</td>
+        <td>001</td>
+        <td>001</td>
+        <td>001</td>
+        <td>001</td>
+        <td>001</td>
+        <td>001</td>
+      </tr>
+    </tbody>
   </table>
 
