@@ -10,6 +10,4 @@ My collection of solutions to Project Euler.
 
 <details open>
 <summary>Want to ruin the surprise?</summary>
-<br>
-Well, you asked for it!
-<details>
+
