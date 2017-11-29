@@ -1,4 +1,4 @@
-package projectEuler;
+package projectEuler.Problem_3;
 import java.util.ArrayList;
 
 public class problem3 {
