@@ -1,4 +1,4 @@
-package projectEuler.Problem_13;
+package projectEuler._013;
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.math.BigInteger;

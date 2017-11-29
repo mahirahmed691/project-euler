@@ -1,4 +1,4 @@
-package projectEuler.Problem_4;
+package projectEuler._004;
 public class problem4 {
 
     // Find the greatest palindrome.

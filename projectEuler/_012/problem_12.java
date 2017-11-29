@@ -1,4 +1,4 @@
-package projectEuler.Problem_12;
+package projectEuler._012;
 public class problem_12 {
 
     public static void main(String[] args) {

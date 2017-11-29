@@ -1,4 +1,4 @@
-package projectEuler.Problem_16;
+package projectEuler._016;
 import java.math.BigInteger;
 
 public class problem_16 {

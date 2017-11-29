@@ -1,4 +1,4 @@
-package projectEuler.Problem_9;
+package projectEuler._009;
 import java.text.DecimalFormat;
 import java.text.NumberFormat;
 
