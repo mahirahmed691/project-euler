@@ -9,5 +9,12 @@ My collection of solutions to Project Euler.
 ### Solutions
 
 <details open>
-<summary>Want to ruin the surprise?</summary>
+<summary>Languages</summary>
+  <table>
+    <thead>
+      <tr>
+        <th aligin="center">Java</th>
+      </tr>
+    </thead>
+  </table>
 
