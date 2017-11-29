@@ -10,7 +10,7 @@ My collection of solutions to Project Euler.
 <details open>
  <br>
   Complete: ✔️ TODO: 🔴
- <br>
+ <br><br><br>
 <summary>Languages</summary>
   <table>
     <thead>
