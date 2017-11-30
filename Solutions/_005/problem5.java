@@ -1,4 +1,4 @@
-package solutions._005;
+package Solutions._005;
 public class problem5 {
 
 
@@ -26,5 +26,6 @@ public class problem5 {
         System.out.println(smallest);
 
     }
+
 
 }
