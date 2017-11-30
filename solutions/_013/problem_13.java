@@ -1,4 +1,4 @@
-package projectEuler._013;
+package solutions._013;
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.math.BigInteger;
@@ -12,7 +12,7 @@ public class problem_13 {
 
         long start = System.currentTimeMillis(); // start timer.
         BigInteger sum = BigInteger.ZERO;
-        File file = new File("projectEuler/_013/largeSum.txt");
+        File file = new File("solutions/_013/largeSum.txt");
         try {
             Scanner scanner = new Scanner(file);
             String line;

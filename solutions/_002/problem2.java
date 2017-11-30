@@ -1,4 +1,4 @@
-package projectEuler._002;
+package solutions._002;
 public class problem2 {
 
     // Even Fibonacci numbers
