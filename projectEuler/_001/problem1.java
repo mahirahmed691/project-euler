@@ -16,4 +16,3 @@ public class problem1 {
         System.out.println(sum);
     }
 }
-
