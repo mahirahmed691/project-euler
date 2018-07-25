@@ -34,7 +34,7 @@ My collection of Solutions to Project Euler.
         <td align="center">🔴</td>
         <td align="center">🔴</td>
         <td align="center">🔴</td>
-        <td align="center">🔴</td>
+        <td align="center">✔️</td>
         <td align="center">🔴</td>
         <td align="center">✔️</td>
         <td align="center">🔴</td>
@@ -46,11 +46,11 @@ My collection of Solutions to Project Euler.
         <td align="center">🔴</td>
         <td align="center">🔴</td>
         <td align="center">🔴</td>
-        <td align="center">🔴</td>
+        <td align="center">✔️</td>
         <td align="center">🔴</td>
         <td align="center">✔️</td>
         <td align="center">🔴</td>
-          <td align="center">🔴</td>
+        <td align="center">🔴</td>
       </tr
         <tr>
         <td align="center">003</td>
@@ -58,11 +58,11 @@ My collection of Solutions to Project Euler.
         <td align="center">🔴</td>
         <td align="center">🔴</td>
         <td align="center">🔴</td>
-        <td align="center">🔴</td>
+        <td align="center">✔️</td>
         <td align="center">🔴</td>
         <td align="center">✔️</td>
         <td align="center">🔴</td>
-          <td align="center">🔴</td>
+        <td align="center">🔴</td>
       </tr>
         <tr>
         <td align="center">004</td>
@@ -70,11 +70,11 @@ My collection of Solutions to Project Euler.
         <td align="center">🔴</td>
         <td align="center">🔴</td>
         <td align="center">🔴</td>
+        <td align="center">✔️</td>
         <td align="center">🔴</td>
         <td align="center">🔴</td>
         <td align="center">🔴</td>
         <td align="center">🔴</td>
-          <td align="center">🔴</td>
       </tr>
         <tr>
         <td align="center">005</td>
@@ -98,7 +98,7 @@ My collection of Solutions to Project Euler.
         <td align="center">🔴</td>
         <td align="center">🔴</td>
         <td align="center">🔴</td>
-          <td align="center">🔴</td>
+        <td align="center">🔴</td>
       </tr>
         <tr>
         <td align="center">007</td>
@@ -110,7 +110,7 @@ My collection of Solutions to Project Euler.
         <td align="center">🔴</td>
         <td align="center">🔴</td>
         <td align="center">🔴</td>
-         <td align="center">🔴</td>
+        <td align="center">🔴</td>
       </tr>
         <tr>
         <td align="center">009</td>
@@ -122,7 +122,7 @@ My collection of Solutions to Project Euler.
         <td align="center">🔴</td>
         <td align="center">🔴</td>
         <td align="center">🔴</td>
-          <td align="center">🔴</td>
+        <td align="center">🔴</td>
       </tr>
         <tr>
         <td align="center">010</td>
@@ -134,7 +134,7 @@ My collection of Solutions to Project Euler.
         <td align="center">🔴</td>
         <td align="center">🔴</td>
         <td align="center">🔴</td>
-          <td align="center">🔴</td>
+        <td align="center">🔴</td>
       </tr>
         <tr>
         <td align="center">011</td>
@@ -146,7 +146,7 @@ My collection of Solutions to Project Euler.
         <td align="center">🔴</td>
         <td align="center">🔴</td>
         <td align="center">🔴</td>
-          <td align="center">🔴</td>
+        <td align="center">🔴</td>
       </tr>
         <tr>
         <td align="center">012</td>
@@ -158,7 +158,7 @@ My collection of Solutions to Project Euler.
         <td align="center">🔴</td>
         <td align="center">🔴</td>
         <td align="center">🔴</td>
-          <td align="center">🔴</td>
+        <td align="center">🔴</td>
       </tr>
         <tr>
         <td align="center">013</td>
@@ -170,7 +170,7 @@ My collection of Solutions to Project Euler.
         <td align="center">🔴</td>
         <td align="center">🔴</td>
         <td align="center">🔴</td>
-          <td align="center">🔴</td>
+        <td align="center">🔴</td>
       </tr>
         <tr>
         <td align="center">014</td>
@@ -182,7 +182,7 @@ My collection of Solutions to Project Euler.
         <td align="center">🔴</td>
         <td align="center">🔴</td>
         <td align="center">🔴</td>
-          <td align="center">🔴</td>
+        <td align="center">🔴</td>
       </tr>
         <tr>
         <td align="center">015</td>
@@ -194,7 +194,7 @@ My collection of Solutions to Project Euler.
         <td align="center">🔴</td>
         <td align="center">🔴</td>
         <td align="center">🔴</td>
-          <td align="center">🔴</td>
+        <td align="center">🔴</td>
       </tr>
         <tr>
         <td align="center">016</td>
@@ -206,7 +206,7 @@ My collection of Solutions to Project Euler.
         <td align="center">🔴</td>
         <td align="center">🔴</td>
         <td align="center">🔴</td>
-          <td align="center">🔴</td>
+         <td align="center">🔴</td>
       </tr>
     </tbody>
   </table>
