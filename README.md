@@ -45,7 +45,7 @@ My collection of Solutions to Project Euler.
         <td align="center">✔️</td>
         <td align="center">🔴</td>
         <td align="center">🔴</td>
-        <td align="center">🔴</td>
+        <td align="center">✔️</td>
         <td align="center">✔️</td>
         <td align="center">🔴</td>
         <td align="center">✔️</td>
