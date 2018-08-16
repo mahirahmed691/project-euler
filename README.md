@@ -31,182 +31,182 @@ My collection of Solutions to Project Euler.
       <tr>
         <td align="center">001</td>
         <td align="center">✔️</td>
-        <td align="center">🔴</td>
-        <td align="center">🔴</td>
+        <td align="center">✘</td>
+        <td align="center">✘</td>
         <td align="center">✔️</td>
         <td align="center">✔️</td>
-        <td align="center">🔴</td>
+        <td align="center">✘</td>
         <td align="center">✔️</td>
-        <td align="center">🔴</td>
-        <td align="center">🔴</td>
+        <td align="center">✘</td>
+       <td align="center">✘</td>
       </tr>
         <tr>
         <td align="center">002</td>
         <td align="center">✔️</td>
-        <td align="center">🔴</td>
-        <td align="center">🔴</td>
+        <td align="center">✘</td>
+        <td align="center">✘</td>
         <td align="center">✔️</td>
         <td align="center">✔️</td>
-        <td align="center">🔴</td>
+        <td align="center">✘</td>
         <td align="center">✔️</td>
-        <td align="center">🔴</td>
-        <td align="center">🔴</td>
+        <td align="center">✘</td>
+        <td align="center">✘</td>
       </tr
         <tr>
         <td align="center">003</td>
         <td align="center">✔️</td>
-        <td align="center">🔴</td>
-        <td align="center">🔴</td>
-        <td align="center">🔴</td>
+        <td align="center">✘</td>
+        <td align="center">✘</td>
+        <td align="center">✘</td>
         <td align="center">✔️</td>
-        <td align="center">🔴</td>
+        <td align="center">✘</td>
         <td align="center">✔️</td>
-        <td align="center">🔴</td>
-        <td align="center">🔴</td>
+        <td align="center">✘</td>
+        <td align="center">✘</td>
       </tr>
         <tr>
         <td align="center">004</td>
         <td align="center">✔️</td>
-        <td align="center">🔴</td>
-        <td align="center">🔴</td>
+        <td align="center">✘</td>
+        <td align="center">✘</td>
         <td align="center">✔️</td>
         <td align="center">✔️</td>
-        <td align="center">🔴</td>
-        <td align="center">🔴</td>
-        <td align="center">🔴</td>
-        <td align="center">🔴</td>
+        <td align="center">✘</td>
+        <td align="center">✘</td>
+        <td align="center">✘</td>
+        <td align="center">✘</td>
       </tr>
         <tr>
         <td align="center">005</td>
         <td align="center">✔️</td>
-        <td align="center">🔴</td>
-        <td align="center">🔴</td>
-        <td align="center">🔴</td>
-        <td align="center">🔴</td>
-        <td align="center">🔴</td>
-        <td align="center">🔴</td>
-        <td align="center">🔴</td> 
-        <td align="center">🔴</td>
+        <td align="center">✘</td>
+        <td align="center">✘</td>
+        <td align="center">✘</td>
+        <td align="center">✘</td>
+        <td align="center">✘</td>
+        <td align="center">✘</td>
+        <td align="center">✘</td> 
+        <td align="center">✘</td>
       </tr>
         <tr>
         <td align="center">006</td>
         <td align="center">✔️</td>
-        <td align="center">🔴</td>
-        <td align="center">🔴</td>
-        <td align="center">🔴</td>
-        <td align="center">🔴</td>
-        <td align="center">🔴</td>
-        <td align="center">🔴</td>
-        <td align="center">🔴</td>
-        <td align="center">🔴</td>
+        <td align="center">✘</td>
+        <td align="center">✘</td>
+        <td align="center">✘</td>
+        <td align="center">✘</td>
+        <td align="center">✘</td>
+        <td align="center">✘</td>
+        <td align="center">✘</td>
+        <td align="center">✘</td>
       </tr>
         <tr>
         <td align="center">007</td>
         <td align="center">✔️</td>
-        <td align="center">🔴</td>
-        <td align="center">🔴</td>
-        <td align="center">🔴</td>
-        <td align="center">🔴</td>
-        <td align="center">🔴</td>
-        <td align="center">🔴</td>
-        <td align="center">🔴</td>
-        <td align="center">🔴</td>
+        <td align="center">✘</td>
+        <td align="center">✘</td>
+        <td align="center">✘</td>
+        <td align="center">✘</td>
+        <td align="center">✘</td>
+        <td align="center">✘</td>
+        <td align="center">✘</td>
+        <td align="center">✘</td>
       </tr>
         <tr>
         <td align="center">009</td>
         <td align="center">✔️</td>
-        <td align="center">🔴</td>
-        <td align="center">🔴</td>
-        <td align="center">🔴</td>
-        <td align="center">🔴</td>
-        <td align="center">🔴</td>
-        <td align="center">🔴</td>
-        <td align="center">🔴</td>
-        <td align="center">🔴</td>
+        <td align="center">✘</td>
+        <td align="center">✘</td>
+        <td align="center">✘</td>
+        <td align="center">✘</td>
+        <td align="center">✘</td>
+        <td align="center">✘</td>
+        <td align="center">✘</td>
+        <td align="center">✘</td>
       </tr>
         <tr>
         <td align="center">010</td>
         <td align="center">✔️</td>
-        <td align="center">🔴</td>
-        <td align="center">🔴</td>
-        <td align="center">🔴</td>
-        <td align="center">🔴</td>
-        <td align="center">🔴</td>
-        <td align="center">🔴</td>
-        <td align="center">🔴</td>
-        <td align="center">🔴</td>
+        <td align="center">✘</td>
+        <td align="center">✘</td>
+        <td align="center">✘</td>
+        <td align="center">✘</td>
+        <td align="center">✘</td>
+        <td align="center">✘</td>
+        <td align="center">✘</td>
+        <td align="center">✘</td>
       </tr>
         <tr>
         <td align="center">011</td>
         <td align="center">✔️</td>
-        <td align="center">🔴</td>
-        <td align="center">🔴</td>
-        <td align="center">🔴</td>
-        <td align="center">🔴</td>
-        <td align="center">🔴</td>
-        <td align="center">🔴</td>
-        <td align="center">🔴</td>
-        <td align="center">🔴</td>
+        <td align="center">✘</td>
+        <td align="center">✘</td>
+        <td align="center">✘</td>
+        <td align="center">✘</td>
+        <td align="center">✘</td>
+        <td align="center">✘</td>
+        <td align="center">✘</td>
+        <td align="center">✘</td>
       </tr>
         <tr>
         <td align="center">012</td>
         <td align="center">✔️</td>
-        <td align="center">🔴</td>
-        <td align="center">🔴</td>
-        <td align="center">🔴</td>
-        <td align="center">🔴</td>
-        <td align="center">🔴</td>
-        <td align="center">🔴</td>
-        <td align="center">🔴</td>
-        <td align="center">🔴</td>
+        <td align="center">✘</td>
+        <td align="center">✘</td>
+        <td align="center">✘</td>
+        <td align="center">✘</td>
+        <td align="center">✘</td>
+        <td align="center">✘</td>
+        <td align="center">✘</td>
+        <td align="center">✘</td>
       </tr>
         <tr>
         <td align="center">013</td>
         <td align="center">✔️</td>
-        <td align="center">🔴</td>
-        <td align="center">🔴</td>
-        <td align="center">🔴</td>
-        <td align="center">🔴</td>
-        <td align="center">🔴</td>
-        <td align="center">🔴</td>
-        <td align="center">🔴</td>
-        <td align="center">🔴</td>
+        <td align="center">✘</td>
+        <td align="center">✘</td>
+        <td align="center">✘</td>
+        <td align="center">✘</td>
+        <td align="center">✘</td>
+        <td align="center">✘</td>
+        <td align="center">✘</td>
+        <td align="center">✘</td>
       </tr>
         <tr>
         <td align="center">014</td>
         <td align="center">✔️</td>
-        <td align="center">🔴</td>
-        <td align="center">🔴</td>
-        <td align="center">🔴</td>
-        <td align="center">🔴</td>
-        <td align="center">🔴</td>
-        <td align="center">🔴</td>
-        <td align="center">🔴</td>
-        <td align="center">🔴</td>
+        <td align="center">✘</td>
+        <td align="center">✘</td>
+        <td align="center">✘</td>
+        <td align="center">✘</td>
+        <td align="center">✘</td>
+        <td align="center">✘</td>
+        <td align="center">✘</td>
+        <td align="center">✘</td>
       </tr>
         <tr>
         <td align="center">015</td>
         <td align="center">✔️</td>
-        <td align="center">🔴</td>
-        <td align="center">🔴</td>
-        <td align="center">🔴</td>
-        <td align="center">🔴</td>
-        <td align="center">🔴</td>
-        <td align="center">🔴</td>
-        <td align="center">🔴</td>
-        <td align="center">🔴</td>
+        <td align="center">✘</td>
+        <td align="center">✘</td>
+        <td align="center">✘</td>
+        <td align="center">✘</td>
+        <td align="center">✘</td>
+        <td align="center">✘</td>
+        <td align="center">✘</td>
+        <td align="center">✘</td>
       </tr>
         <tr>
         <td align="center">016</td>
         <td align="center">✔️</td>
-        <td align="center">🔴</td>
-        <td align="center">🔴</td>
-        <td align="center">🔴</td>
-        <td align="center">🔴</td>
-        <td align="center">🔴</td>
-        <td align="center">🔴</td>
-        <td align="center">🔴</td>
-         <td align="center">🔴</td>
+        <td align="center">✘</td>
+        <td align="center">✘</td>
+        <td align="center">✘</td>
+        <td align="center">✘</td>
+        <td align="center">✘</td>
+        <td align="center">✘</td>
+        <td align="center">✘</td>
+        <td align="center">✘</td>
       </tr>
     </tbody>
   </table>
