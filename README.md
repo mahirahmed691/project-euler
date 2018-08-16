@@ -9,7 +9,7 @@ My collection of Solutions to Project Euler.
 ### Solutions
 <details open>
  <br>
-  Complete: ✔️ TODO: 🔴
+  Complete: ✔️ TODO: ✘
  <br><br>
 <summary>Languages</summary>
   <table>
