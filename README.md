@@ -30,13 +30,13 @@ My collection of Solutions to Project Euler.
     <tbody>
       <tr>
         <td align="center">001</td>
-        <td align="center">✔️</td>
+        <td align="center">✓</td>
         <td align="center">✘</td>
         <td align="center">✘</td>
-        <td align="center">✔️</td>
-        <td align="center">✔️</td>
+        <td align="center">✓</td>
+        <td align="center">✓</td>
         <td align="center">✘</td>
-        <td align="center">✔️</td>
+        <td align="center">✓</td>
         <td align="center">✘</td>
        <td align="center">✘</td>
       </tr>
