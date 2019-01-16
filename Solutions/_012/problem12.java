@@ -1,5 +1,5 @@
 package Solutions._012;
-public class problem_12 {
+public class problem12 {
 
     public static void main(String[] args) {
 

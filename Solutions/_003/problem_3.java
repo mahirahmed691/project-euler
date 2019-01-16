@@ -1,7 +1,7 @@
 package Solutions._003;
 import java.util.ArrayList;
 
-public class problem3 {
+public class problem_3 {
     // Largest prime factors
     private static ArrayList<Long> largestPrimeFactor(long num) {
 

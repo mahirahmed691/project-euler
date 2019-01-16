@@ -2,7 +2,7 @@ package Solutions._009;
 import java.text.DecimalFormat;
 import java.text.NumberFormat;
 
-public class problem9 {
+public class problem_9 {
 
     public static void main(String[] args) {
 

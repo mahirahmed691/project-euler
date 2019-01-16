@@ -1,5 +1,5 @@
 package Solutions._004;
-public class problem4 {
+public class problem_4 {
 
     // Find the greatest palindrome.
     public static void main(String[] args) {

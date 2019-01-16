@@ -2,7 +2,7 @@ package Solutions._007;
 import java.text.DecimalFormat;
 import java.text.NumberFormat;
 
-public class problem7 {
+public class problem_7 {
     //Smallest prime number
     //checks whether an int is prime or not.
     private static boolean isPrime(int num) {

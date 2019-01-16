@@ -1,5 +1,5 @@
 package Solutions._005;
-public class problem5 {
+public class problem_5 {
 
 
     // Smallest multiple
