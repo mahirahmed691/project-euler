@@ -14,4 +14,4 @@ for ($i = 1, $n = 1000; $i < $n; $i++) {
 
 $sum_of_multiples = array_sum($multiples_of_divisors);
 
-print "The solution to Euler Project is <strong>$sum_of_multiples</strong> and the individual numbers are:<br /><br />";
+print "The solution to Euler Project is $sum_of_multiples.
